@@ -1,0 +1,14 @@
+header {
+    background: $black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin: 0px;
+    height: 70px;
+
+    h1 {
+        color: $white;
+        margin: 0px 50px;
+    }
+}
